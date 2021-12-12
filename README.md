@@ -1,1 +1,1 @@
-# A Calculator with GUI made in C# for the Terminal
+## A Calculator with GUI made in C# for the Terminal
